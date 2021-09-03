@@ -1,10 +1,15 @@
-{
-  "productos":[
+  "posts": [
     {
       "id": 0,
-      "codigo": 00000,
-      "descripcion": "Asiento",
-      "precio":90
+      "title": "First post!",
+      "content": "My first content!"
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "content": " content!",
+      "username":"hey"
     }
   ]
 }
