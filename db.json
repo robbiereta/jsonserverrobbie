@@ -8,7 +8,7 @@
 "productos":[
     {
       "id": 0,
-      "codigo":000000
+      "codigo":000000,
       "descripcion": "asiento",
       "precio": 90
     }
