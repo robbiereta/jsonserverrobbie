@@ -1,10 +1,3 @@
-  "registros":[
-    {
-      "id": 0,
-      "horas": 2,
-      "videos": "1"
-    }
-  ],
 "productos":[
     {
       "id": 0,
@@ -13,4 +6,5 @@
       "precio": 90
     }
   ]
+
 }
